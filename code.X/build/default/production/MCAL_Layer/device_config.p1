@@ -1,0 +1,17 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"8 MCAL_Layer/device_config.c
+[p x FOSC  =  HS         ]
+"9
+[p x WDTE  =  OFF        ]
+"10
+[p x PWRTE  =  OFF       ]
+"11
+[p x BOREN  =  OFF       ]
+"12
+[p x LVP  =  OFF         ]
+"13
+[p x CPD  =  OFF         ]
+"14
+[p x WRT  =  OFF         ]
+"15
+[p x CP  =  OFF          ]
